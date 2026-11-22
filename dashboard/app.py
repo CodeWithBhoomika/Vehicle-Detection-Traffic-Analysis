@@ -1242,7 +1242,7 @@ elif page == "About & Team":
 
         ("ST", "SANSKRITI THAKUR", "Documentation & Results Demo", "Organizes project documentation, results and demonstration materials."),
 
-        ("SP", "SANTANU PAL", "Traffic Data Collection & Testing", "Collects traffic videos/images and supports testing across different traffic conditions."),
+        ("CB", "C H Bhoomika", "Traffic Data Collection & Testing", "Collects traffic videos/images and supports testing across different traffic conditions."),
 
     ]
 
