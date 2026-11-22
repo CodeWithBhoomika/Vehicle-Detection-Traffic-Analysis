@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-Vehicle Detection & Traffic Analysis is an AI-based computer vision project designed to detect and analyze vehicles from images, videos, and live camera input.
+Vehicle Detection & Traffic Analysis is designed to automate vehicle identification and support traffic monitoring using computer vision techniques.
 
-The system uses YOLO-based object detection to identify vehicles, generate bounding boxes, provide confidence scores, and support further traffic analysis.
+The system uses YOLO-based object detection to identify vehicles, generate bounding boxes, assign confidence scores, and support vehicle counting and traffic analysis.
 
 ## Project Objectives
 
@@ -75,7 +75,7 @@ Responsible for:
 - Supported visualization of vehicle detection results and statistics.
 - Assisted in creating a clean, interactive and user-friendly dashboard.
 
-### SANTANU — Testing & Performance
+### BHOOMIKA — Testing & Performance
 
 Responsible for:
 
@@ -141,7 +141,7 @@ Input Image / Video / Webcam
                        UI
                        │
                        ▼
-                   SANTANU
+                   BHOOMIKA
               Testing & Performance
                        │
                        ▼
@@ -153,3 +153,4 @@ Input Image / Video / Webcam
                        │
                        ▼
              FINAL PROJECT DEMO
+
